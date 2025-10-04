@@ -73,7 +73,7 @@
 - [Lucide React](https://lucide.dev/) – Icon library  
 - [Recharts](https://recharts.org/) – Data visualization  
 
-### Backend & Database (via [Lovable Cloud](https://lovable.dev))  
+### Backend & Database 
 - Supabase (PostgreSQL, Auth, RLS)  
 - Edge Functions (serverless AI logic)  
 - Authentication (email/password, role-based)  
